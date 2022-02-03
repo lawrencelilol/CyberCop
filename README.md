@@ -11,6 +11,14 @@ Table 1 shows a sample of cases FTC website.
 
 ## GUI based application
 
+The application can :
+1. View all cases by inputed datafile
+2. Search, Add, Modify, or Delete a case
+3. Use data in TSV and CSV formats with additional columns
+4. Make changes to case file and save it as a TSV file
+5. Display a chart as shown Figure.5
+6. Handle some runtime exceptions related to data
+
 Figure 1 and Figure 2 show the opening screen and data-screen with names of important GUI controls of CyberCop.
 
 ![image](https://user-images.githubusercontent.com/35508198/152412123-9081a96f-bd1b-4fe7-abd0-a46c554e510b.png)
@@ -33,7 +41,8 @@ The app handles errors if the users does not input the data correctly or input w
 
 ![image](https://user-images.githubusercontent.com/35508198/152415523-79d0da56-3b0a-4464-97d8-2640e39d2802.png)
 
-The app also handles errors if the users does not input the data correctly or input wrong types of data
+The app also handles errors if the users does not input the data correctly or input wrong types of data.
+It also handles runtime error related to the data.
 
 _Figure 4: Exception handling_
 
