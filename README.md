@@ -12,8 +12,8 @@ Table 1 shows a sample of cases FTC website.
 Important things to note in data:
 
 1. Each case has a date, a title, a case type, and a case number. However, case type and case number may be missing for some cases.
-2. The date is in yyyy-mm-dd format
-3. Case type is given at the end of the Title within parentheses. The current data has Federal and Administrative as two case types
+2. The date is in yyyy-mm-dd format.
+3. Case type is given at the end of the Title within parentheses. The current data has Federal and Administrative as two case types.
 4. Case number is a string of some characters.
 
 ## GUI based application
