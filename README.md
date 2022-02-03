@@ -1,6 +1,6 @@
 # CyberCop
 
-App helps to analyze Federal Trade Commission(FTC) cases
+App helps to analyze [Federal Trade Commission(FTC)](https://www.ftc.gov/about-ftc) cases
 
 ## 
 The Federal Trade Commission (FTC) is a government agency that is responsible for "protecting consumers and competition by preventing anticompetitive, deceptive, and unfair business practices through law enforcement, advocacy, and education without unduly burdening legitimate business activity." It conducts investigative cases against companies that engage in unlawful practices that harm consumers in any way. These cases are logged under [Cases and Proceedings](https://www.ftc.gov/enforcement/cases-proceedings) and are available for public review.
@@ -26,5 +26,23 @@ _Figure 2: CyberCop with CyberCop.TSV opened_
 ![image](https://user-images.githubusercontent.com/35508198/152412470-6d0009f2-c79b-4384-8938-c404aa366778.png)
 
 _Figure 3: Case View GUI controls to Add/Modify/Delete cases_
+
+## Handling Error 
+
+The app handles errors if the users does not input the data correctly or input wrong types of data
+
+![image](https://user-images.githubusercontent.com/35508198/152415523-79d0da56-3b0a-4464-97d8-2640e39d2802.png)
+
+The app also handles errors if the users does not input the data correctly or input wrong types of data
+
+_Figure 4: Exception handling_
+
+## Data Visualization
+
+The app can output a bar-chart with FTC cass counted for each year.
+
+![image](https://user-images.githubusercontent.com/35508198/152415749-b1edddda-e4f2-4071-b5d0-eb09aa41b2bb.png)
+
+
 
 
