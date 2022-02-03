@@ -1,4 +1,4 @@
-# CyperCop
+# CyberCop
 
 App helps to analyze Federal Trade Commission(FTC) cases
 
@@ -18,5 +18,13 @@ Figure 1 and Figure 2 show the opening screen and data-screen with names of impo
 _Figure 1: CyberCop Opening Screen_
 
 
+![image](https://user-images.githubusercontent.com/35508198/152412335-80e3864b-403d-45af-9281-c09f7e5c77fb.png)
+
+_Figure 2: CyberCop with CyberCop.TSV opened_
+
+
+![image](https://user-images.githubusercontent.com/35508198/152412470-6d0009f2-c79b-4384-8938-c404aa366778.png)
+
+_Figure 3: Case View GUI controls to Add/Modify/Delete cases_
 
 
