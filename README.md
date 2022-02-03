@@ -1,6 +1,6 @@
 # CyberCop
 
-App helps to analyze [Federal Trade Commission(FTC)](https://www.ftc.gov/about-ftc) cases
+An App helps to analyze [Federal Trade Commission(FTC)](https://www.ftc.gov/about-ftc) cases.
 
 ## 
 The Federal Trade Commission (FTC) is a government agency that is responsible for "protecting consumers and competition by preventing anticompetitive, deceptive, and unfair business practices through law enforcement, advocacy, and education without unduly burdening legitimate business activity." It conducts investigative cases against companies that engage in unlawful practices that harm consumers in any way. These cases are logged under [Cases and Proceedings](https://www.ftc.gov/enforcement/cases-proceedings) and are available for public review.
@@ -8,6 +8,13 @@ The Federal Trade Commission (FTC) is a government agency that is responsible fo
 Table 1 shows a sample of cases FTC website. 
 
 ![image](https://user-images.githubusercontent.com/35508198/152411545-d9d3c4dc-776e-4bc9-9484-2e5843ab510a.png)
+
+Important things to note in data:
+
+1. Each case has a date, a title, a case type, and a case number. However, case type and case number may be missing for some cases.
+2. The date is in yyyy-mm-dd format
+3. Case type is given at the end of the Title within parentheses. The current data has Federal and Administrative as two case types
+4. Case number is a string of some characters.
 
 ## GUI based application
 
