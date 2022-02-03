@@ -43,6 +43,9 @@ The app can output a bar-chart with FTC cass counted for each year.
 
 ![image](https://user-images.githubusercontent.com/35508198/152415749-b1edddda-e4f2-4071-b5d0-eb09aa41b2bb.png)
 
+_Figure 5: Bar-chart based on FTC case count_
+
+
 
 
 
