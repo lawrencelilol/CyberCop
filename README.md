@@ -7,7 +7,7 @@ The Federal Trade Commission (FTC) is a government agency that is responsible fo
 
 Table 1 shows a sample of cases FTC website. 
 
-![image](https://user-images.githubusercontent.com/35508198/152411545-d9d3c4dc-776e-4bc9-9484-2e5843ab510a.png)
+![image](https://user-images.githubusercontent.com/35508198/152411545-d9d3c4dc-776e-4bc9-9484-2e5843ab510a.png#gh-light-mode-only)
 
 Important things to note in data:
 
